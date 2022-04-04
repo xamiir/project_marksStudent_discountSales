@@ -1,0 +1,13 @@
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.csproj.AssemblyReference.cache
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.Form1.resources
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.Properties.Resources.resources
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.csproj.GenerateResource.cache
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.csproj.CoreCompileInputs.cache
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.quiz.resources
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\bin\Debug\Function1.exe.config
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\bin\Debug\Function1.exe
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\bin\Debug\Function1.pdb
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.exe
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.pdb
+C:\Users\Eng Xamiir\source\repos\Function1\Function1\obj\Debug\Function1.marks.resources
